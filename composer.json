@@ -1,13 +1,13 @@
 {
-    "name": "gbourgeat/tinymce-bundle-gamma",
+    "name": "grouby/tinymce-bundle-gamma",
     "description": "This Bundle integrates TinyMCE WYSIWYG editor into a Symfony2 project.",
     "keywords": ["wysiwyg", "tinymce", "editor", "symfony2", "bundle"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name":     "Gary Bourgeat",
-            "email":    "gary.bourgeat@gmail.com"
+            "name":     "Gabriel ROUBY",
+            "email":    "gabriel.rouby@gmail.com"
         },
         {
             "name":     "Stepan Tanasiychuk",
